@@ -19,4 +19,7 @@
   <a href="https://wa.me/5521994187800" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/luuiz_8/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/Luuiz_8" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/Luuiz-Alves/Luuiz-Alves/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
